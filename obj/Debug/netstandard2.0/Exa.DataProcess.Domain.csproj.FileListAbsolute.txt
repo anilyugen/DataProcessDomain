@@ -1,0 +1,8 @@
+D:\src\[BE] rem inStore\Exa.DataProcess.Domain\obj\Debug\netstandard2.0\Exa.DataProcess.Domain.AssemblyInfoInputs.cache
+D:\src\[BE] rem inStore\Exa.DataProcess.Domain\obj\Debug\netstandard2.0\Exa.DataProcess.Domain.AssemblyInfo.cs
+D:\src\[BE] rem inStore\Exa.DataProcess.Domain\bin\Debug\netstandard2.0\Exa.DataProcess.Domain.deps.json
+D:\src\[BE] rem inStore\Exa.DataProcess.Domain\bin\Debug\netstandard2.0\Exa.DataProcess.Domain.dll
+D:\src\[BE] rem inStore\Exa.DataProcess.Domain\bin\Debug\netstandard2.0\Exa.DataProcess.Domain.pdb
+D:\src\[BE] rem inStore\Exa.DataProcess.Domain\obj\Debug\netstandard2.0\Exa.DataProcess.Domain.dll
+D:\src\[BE] rem inStore\Exa.DataProcess.Domain\obj\Debug\netstandard2.0\Exa.DataProcess.Domain.pdb
+D:\src\[BE] rem inStore\Exa.DataProcess.Domain\obj\Debug\netstandard2.0\Exa.DataProcess.Domain.csprojAssemblyReference.cache
